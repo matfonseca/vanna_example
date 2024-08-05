@@ -15,6 +15,7 @@ This project is a basic Proof of Concept (POC) using the Vanna framework to demo
 
 - Python 3.9 or higher
 - Poetry for dependency management
+- [Ollama](https://ollama.com/) installed on your system
 
 ### Installation
 
